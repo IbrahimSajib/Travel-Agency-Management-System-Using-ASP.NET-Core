@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/lib/bootstrap/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/lib/font-awesome/css/font-awesome.css" rel="stylesheet" />
+    <script src="~/lib/jquery/jquery.js"></script>
+    <script src="~/lib/ajax/dist/jquery.unobtrusive-ajax.js"></script>
+    <script type="text/javascript">
+        function LoadData(spotId = null) {
+            var spotContainer = $("#spotContainer");
+            $.ajax({
+                url: "/Clients/AddNewSpots/" + spotId ?? "",
+                type: "GET",
+                success: function (data) {
+                    spotContainer.append(data);
+                }
+            });
+        }
+        $(document).on("click", "#btnPlus", function (e) {
+            e.preventDefault();
+            LoadData();
+        });
+        $(document).on("click", "#deleteSpot", function (e) {
+            e.preventDefault();
+            $(this).parent().parent().remove();
+        });
+    </script>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: green; color:white;">
+        <div class="container-fluid px-5">
+            <a asp-action="Index" asp-controller="Home" class="navbar-brand">TravelTimes</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a asp-action="Index" asp-controller="Home" class="nav-link">Home</a>
+                    </li> 
+                    <li class="nav-item">
+                        <a asp-action="Index" asp-controller="Clients" class="nav-link">Clients</a>
+                    </li>
+                    <li class="nav-item">
+                        <a asp-action="Index" asp-controller="Spots" class="nav-link">Spot</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="container-fluid px-5">
+        @RenderBody()
+    </div>
+    <footer class="container-fluid">
+        <p class="text-center">&copy; @DateTime.Now.Year - Travel Agency Management System</p>
+    </footer>
+    <environment>
+        <script src="~/lib/bootstrap/js/bootstrap.bundle.js"></script>
+        <script src="~/lib/bootstrap/js/bootstrap.js"></script>
+    </environment>
+    @RenderSection("scripts",false)
+    @RenderSection("styles",false)
+</body>
+</html>

@@ -1,0 +1,36 @@
+﻿@model Travel_Agency_Management_System.Models.Spot
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<div class="card my-2 col-lg-8 mx-auto">
+    <div class="card-header">
+        <h3>Edit Spot</h3>
+    </div>
+    <div class="card-body">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="SpotId" />
+            <div class="row mb-2">
+                <div class="col-2 fw-semibold">
+                    <label asp-for="SpotName" class="col-form-label"></label>
+                </div>
+                <div class="col-6">
+                    <input asp-for="SpotName" class="form-control" />
+                </div>
+                <div class="col-4">
+                    <span asp-validation-for="SpotName" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="d-flex offset-2 mt-3">
+                <input type="submit" value="Update Data" class="btn btn-success btn-sm" />
+            </div>
+        </form>
+    </div>
+    <div class="card-footer">
+        <div class="d-flex justify-content-start">
+            <a asp-action="Index" class="btn btn-link text-decoration-none btn-sm"><i class="fa fa-arrow-circle-left"></i> Back to List</a>
+        </div>
+    </div>
+</div>

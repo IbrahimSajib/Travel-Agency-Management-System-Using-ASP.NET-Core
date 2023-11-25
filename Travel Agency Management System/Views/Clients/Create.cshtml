@@ -1,0 +1,113 @@
+﻿@model Travel_Agency_Management_System.Models.ViewModels.ClientVM
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2 class="alert alert-success text-center mt-2">Add New Client</h2>
+<form asp-action="Create" asp-controller="Clients" enctype="multipart/form-data" method="post">
+    <div class="row">
+        <div class="col-7">
+            <div class="card">
+                <div class="card-header text-center">
+                    <h3>Client Information</h3>
+                </div>
+                <div class="card-body ms-2">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                    <div class="row mb-2">
+                        <div class="col-3">
+                            <label asp-for="ClientName" class="col-form-label"></label>
+                        </div>
+                        <div class="col-5">
+                            <input asp-for="ClientName" class="form-control form-control-sm" />
+                        </div>
+                        <div class="col-4">
+                            <span asp-validation-for="ClientName" class="text-danger"></span>
+                        </div>
+                    </div>
+                   
+
+                    <div class="row mb-2">
+                        <div class="col-3">
+                            <label asp-for="DateOfBirth" class="col-form-label"></label>
+                        </div>
+                        <div class="col-5">
+                            <input asp-for="DateOfBirth" class="form-control form-control-sm" type="date"/>
+                        </div>
+                        <div class="col-4">
+                            <span asp-validation-for="DateOfBirth" class="text-danger"></span>
+                        </div>
+                    </div>
+                   
+
+                    <div class="row mb-2">
+                        <div class="col-3">
+                            <label asp-for="Phone" class="col-form-label"></label>
+                        </div>
+                        <div class="col-5">
+                            <input asp-for="Phone" class="form-control form-control-sm" />
+                        </div>
+                        <div class="col-4">
+                            <span asp-validation-for="Phone" class="text-danger"></span>
+                        </div>
+                    </div>
+                   
+
+                    <div class="row mb-2">
+                        <div class="col-3">
+                            <label asp-for="ImagePath" class="col-form-label"></label>
+                        </div>
+                        <div class="col-5">
+                            <input asp-for="ImagePath" class="form-control form-control-sm" />
+                        </div>
+                        <div class="col-4">
+                            <span asp-validation-for="ImagePath" class="text-danger"></span>
+                        </div>
+                    </div>
+                   
+
+                    <div class="row mb-2">
+                        <div class="col-3">
+                            <label asp-for="IsMarried" class="col-form-label"></label>
+                        </div>
+                        <div class="col-5 align-middle">
+                            <input asp-for="IsMarried" />
+                        </div>
+                        <div class="col-4">
+                            <span asp-validation-for="IsMarried" class="text-danger"></span>
+                        </div>
+                    </div>
+          
+                </div>
+            </div>
+
+        </div>
+        <div class="col-5">
+            <div class="card" style="min-height:320px">
+                <div class="card-header text-center">
+                    <h3>Select Spot</h3>
+                </div>
+                <div class="card-body">
+                    <div class="d-flex justify-content-end mb-3 me-5">
+                        <a id="btnPlus" class="btn btn-warning"><i class="fa fa-plus"></i> Add New</a>
+                    </div>
+                    <div id="spotContainer">
+                        <script>
+                            LoadData();
+                        </script>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="d-flex justify-content-end mt-2">
+            <input type="submit" value="Save Data" class="btn btn-success btn-lg" />
+        </div>
+
+    </div>
+</form>
+
+<div class="card-footer">
+    <div class="d-flex justify-content-start">
+        <a asp-action="Index" class="btn btn-link btn-sm text-decoration-none"><i class="fa fa-arrow-circle-left"></i> Back to List</a>
+    </div>
+</div>

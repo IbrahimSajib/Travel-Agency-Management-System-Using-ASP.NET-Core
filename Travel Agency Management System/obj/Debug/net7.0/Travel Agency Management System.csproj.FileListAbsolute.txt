@@ -1,0 +1,765 @@
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\appsettings.Development.json
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\appsettings.json
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\libman.json
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Travel Agency Management System.staticwebassets.runtime.json
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Travel Agency Management System.exe
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Travel Agency Management System.deps.json
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Travel Agency Management System.runtimeconfig.json
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Travel Agency Management System.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Travel Agency Management System.pdb
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Azure.Core.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Azure.Identity.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Humanizer.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Microsoft.Build.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\NuGet.Common.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\System.CodeDom.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\af\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\ar\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\az\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\bg\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\cs\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\da\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\de\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\el\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\es\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\fa\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\fr\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\he\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\hr\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\hu\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\hy\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\id\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\is\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\it\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\ja\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\ku\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\lv\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\mt\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\nb\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\nl\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\pl\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\pt\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\ro\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\ru\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\sk\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\sl\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\sr\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\sv\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\tr\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\uk\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\vi\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\obj\Debug\net7.0\Travel Agency Management System.csproj.AssemblyReference.cache
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\obj\Debug\net7.0\Travel Agency Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\obj\Debug\net7.0\Travel Agency Management System.AssemblyInfoInputs.cache
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\obj\Debug\net7.0\Travel Agency Management System.AssemblyInfo.cs
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\obj\Debug\net7.0\Travel Agency Management System.csproj.CoreCompileInputs.cache
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\obj\Debug\net7.0\Travel Agency Management System.MvcApplicationPartsAssemblyInfo.cache
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\obj\Debug\net7.0\staticwebassets\msbuild.Travel Agency Management System.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\obj\Debug\net7.0\staticwebassets\msbuild.build.Travel Agency Management System.props
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Travel Agency Management System.props
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Travel Agency Management System.props
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\obj\Debug\net7.0\staticwebassets.build.json
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\obj\Debug\net7.0\staticwebassets.development.json
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\obj\Debug\net7.0\scopedcss\bundle\Travel Agency Management System.styles.css
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\obj\Debug\net7.0\Travel Agency Management System.csproj.CopyComplete
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\obj\Debug\net7.0\Travel Agency Management System.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\obj\Debug\net7.0\refint\Travel Agency Management System.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\obj\Debug\net7.0\Travel Agency Management System.pdb
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\obj\Debug\net7.0\Travel Agency Management System.genruntimeconfig.cache
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\obj\Debug\net7.0\ref\Travel Agency Management System.dll
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\obj\Debug\net7.0\Travel Agency Management System.RazorAssemblyInfo.cache
+D:\Practice For Github\Travel Agency Management System Using ASP.NET Core\Travel Agency Management System\obj\Debug\net7.0\Travel Agency Management System.RazorAssemblyInfo.cs
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\appsettings.Development.json
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\appsettings.json
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\libman.json
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Travel Agency Management System.staticwebassets.runtime.json
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Travel Agency Management System.exe
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Travel Agency Management System.deps.json
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Travel Agency Management System.runtimeconfig.json
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Travel Agency Management System.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Travel Agency Management System.pdb
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Azure.Core.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Azure.Identity.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Humanizer.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.Build.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Newtonsoft.Json.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\NuGet.Common.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\NuGet.Configuration.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\NuGet.Frameworks.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\NuGet.LibraryModel.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\NuGet.Packaging.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\NuGet.ProjectModel.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\NuGet.Protocol.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\NuGet.Versioning.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\System.CodeDom.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\System.Composition.Convention.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\System.Composition.Hosting.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\System.Composition.Runtime.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\System.Composition.TypedParts.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\System.Memory.Data.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\af\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ar\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\az\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\bg\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\cs\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\da\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\de\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\el\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\es\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\fa\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\fr\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\he\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\hr\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\hu\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\hy\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\id\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\is\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\it\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ja\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ku\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\lv\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\mt\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\nb\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\nl\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\pl\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\pt\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ro\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ru\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\sk\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\sl\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\sr\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\sv\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\tr\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\uk\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\vi\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\obj\Debug\net7.0\Travel Agency Management System.csproj.AssemblyReference.cache
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\obj\Debug\net7.0\Travel Agency Management System.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\obj\Debug\net7.0\Travel Agency Management System.AssemblyInfoInputs.cache
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\obj\Debug\net7.0\Travel Agency Management System.AssemblyInfo.cs
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\obj\Debug\net7.0\Travel Agency Management System.csproj.CoreCompileInputs.cache
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\obj\Debug\net7.0\Travel Agency Management System.MvcApplicationPartsAssemblyInfo.cache
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\obj\Debug\net7.0\Travel Agency Management System.RazorAssemblyInfo.cache
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\obj\Debug\net7.0\Travel Agency Management System.RazorAssemblyInfo.cs
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\obj\Debug\net7.0\staticwebassets\msbuild.Travel Agency Management System.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\obj\Debug\net7.0\staticwebassets\msbuild.build.Travel Agency Management System.props
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Travel Agency Management System.props
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Travel Agency Management System.props
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\obj\Debug\net7.0\staticwebassets.pack.json
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\obj\Debug\net7.0\staticwebassets.build.json
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\obj\Debug\net7.0\staticwebassets.development.json
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\obj\Debug\net7.0\scopedcss\bundle\Travel Agency Management System.styles.css
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\obj\Debug\net7.0\Travel Agency Management System.csproj.CopyComplete
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\obj\Debug\net7.0\Travel Agency Management System.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\obj\Debug\net7.0\refint\Travel Agency Management System.dll
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\obj\Debug\net7.0\Travel Agency Management System.pdb
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\obj\Debug\net7.0\Travel Agency Management System.genruntimeconfig.cache
+F:\Sajib\Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\obj\Debug\net7.0\ref\Travel Agency Management System.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\appsettings.Development.json
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\appsettings.json
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\libman.json
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Travel Agency Management System.staticwebassets.runtime.json
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Travel Agency Management System.exe
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Travel Agency Management System.deps.json
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Travel Agency Management System.runtimeconfig.json
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Travel Agency Management System.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Travel Agency Management System.pdb
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Azure.Core.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Azure.Identity.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Humanizer.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.Build.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Newtonsoft.Json.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\NuGet.Common.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\NuGet.Configuration.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\NuGet.Frameworks.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\NuGet.LibraryModel.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\NuGet.Packaging.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\NuGet.ProjectModel.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\NuGet.Protocol.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\NuGet.Versioning.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\System.CodeDom.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\System.Composition.Convention.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\System.Composition.Hosting.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\System.Composition.Runtime.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\System.Composition.TypedParts.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\System.Memory.Data.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\af\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ar\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\az\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\bg\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\cs\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\da\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\de\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\el\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\es\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\fa\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\fr\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\he\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\hr\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\hu\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\hy\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\id\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\is\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\it\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ja\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ku\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\lv\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\mt\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\nb\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\nl\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\pl\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\pt\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ro\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ru\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\sk\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\sl\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\sr\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\sv\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\tr\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\uk\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\vi\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\obj\Debug\net7.0\Travel Agency Management System.csproj.AssemblyReference.cache
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\obj\Debug\net7.0\Travel Agency Management System.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\obj\Debug\net7.0\Travel Agency Management System.AssemblyInfoInputs.cache
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\obj\Debug\net7.0\Travel Agency Management System.AssemblyInfo.cs
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\obj\Debug\net7.0\Travel Agency Management System.csproj.CoreCompileInputs.cache
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\obj\Debug\net7.0\Travel Agency Management System.MvcApplicationPartsAssemblyInfo.cache
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\obj\Debug\net7.0\Travel Agency Management System.RazorAssemblyInfo.cache
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\obj\Debug\net7.0\Travel Agency Management System.RazorAssemblyInfo.cs
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\obj\Debug\net7.0\staticwebassets\msbuild.Travel Agency Management System.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\obj\Debug\net7.0\staticwebassets\msbuild.build.Travel Agency Management System.props
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Travel Agency Management System.props
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Travel Agency Management System.props
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\obj\Debug\net7.0\staticwebassets.pack.json
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\obj\Debug\net7.0\staticwebassets.build.json
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\obj\Debug\net7.0\staticwebassets.development.json
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\obj\Debug\net7.0\scopedcss\bundle\Travel Agency Management System.styles.css
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\obj\Debug\net7.0\Travel Agency Management System.csproj.CopyComplete
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\obj\Debug\net7.0\Travel Agency Management System.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\obj\Debug\net7.0\refint\Travel Agency Management System.dll
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\obj\Debug\net7.0\Travel Agency Management System.pdb
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\obj\Debug\net7.0\Travel Agency Management System.genruntimeconfig.cache
+F:\Sajib\22-11-23 7.00PM Travel-Agency-Management-System-Using-ASP.NET-Core-master\Travel Agency Management System\obj\Debug\net7.0\ref\Travel Agency Management System.dll
